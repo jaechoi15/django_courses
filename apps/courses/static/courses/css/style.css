@@ -1,0 +1,21 @@
+.courses {
+    border-style: solid;
+}
+
+td, th {
+    border: 1px solid;
+}
+
+.message {
+    color: red;
+}
+
+.add {
+    background-color: green;
+    color: white;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+}
